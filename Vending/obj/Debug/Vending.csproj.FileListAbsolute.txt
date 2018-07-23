@@ -1,0 +1,7 @@
+C:\Users\durga\source\repos\VendingMachine\Vending\bin\Debug\Vending.dll.config
+C:\Users\durga\source\repos\VendingMachine\Vending\bin\Debug\Vending.dll
+C:\Users\durga\source\repos\VendingMachine\Vending\bin\Debug\Vending.pdb
+C:\Users\durga\source\repos\VendingMachine\Vending\obj\Debug\Vending.csprojResolveAssemblyReference.cache
+C:\Users\durga\source\repos\VendingMachine\Vending\obj\Debug\Vending.csproj.CoreCompileInputs.cache
+C:\Users\durga\source\repos\VendingMachine\Vending\obj\Debug\Vending.dll
+C:\Users\durga\source\repos\VendingMachine\Vending\obj\Debug\Vending.pdb
